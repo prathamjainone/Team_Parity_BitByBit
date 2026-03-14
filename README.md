@@ -61,7 +61,7 @@ The traditional freelance process is broken:
    ```env
    NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-   OPENAI_API_KEY=your_openai_api_key
+   GOOGLE_GENERATIVE_AI_API_KEY=your_gemini_api_key
    ```
 
 4. **Run the development server**
