@@ -3,7 +3,7 @@
 
 An autonomous freelance escrow platform built for the Spectral Bridge Hackathon. Parity brings absolute certainty to freelance work by using AI to objectively define project scope, autonomously verify code submissions, and release funds dynamically through programmatic escrow — freeing employers and freelancers to focus on building.
 
-**🚀 Live Demo:** [Insert Vercel Deployment Link Here](https://your-deployment-link.vercel.app)
+**🚀 Live Demo:** [Vercel Deployment Link ](team-parity-bit-by-bit.vercel.app)
 
 ---
 
